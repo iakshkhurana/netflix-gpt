@@ -1,5 +1,7 @@
 # Netflix GPT
 
+-3:21
+
 - Create React App
 - Configured TailwindCSS 
 - Header
