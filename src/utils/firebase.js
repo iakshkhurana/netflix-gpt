@@ -36,7 +36,6 @@ export const updateUserProfile = async (displayName, photoURL = null) => {
     }
 
     await updateProfile(user, updateData);
-    console.log("User profile updated successfully");
     return user;
   } catch (error) {
     console.error("Error updating user profile:", error);

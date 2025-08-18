@@ -16,12 +16,8 @@ const password=useRef(null);
 const name=useRef(null);
 const dispatch=useDispatch();
 
-
-
 const toggleSignUpForm=()=>{
-setisSignInForm(!isSignInForm);
-
-
+    setisSignInForm(!isSignInForm);
 }
 
 const handleButtonClick=()=>{
