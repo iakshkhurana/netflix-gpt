@@ -1,6 +1,6 @@
 # Netflix GPT
 
--3:21
+1:11:36
 
 - Create React App
 - Configured TailwindCSS 

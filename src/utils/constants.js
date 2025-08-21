@@ -10,4 +10,19 @@ export const API_OPTIONS = {
     }
 };
 
-export const IMG_CONST = "https://image.tmdb.org/t/p/w500/"
+export const IMG_CONST = "https://image.tmdb.org/t/p/w500/";
+
+export const SUPPORTED_LANGUAGES = [
+    {
+        identifier : "hindi",
+        name: "hindi"
+    },
+    {
+        identifier: "en",
+        name: "English"
+    },
+    {
+        identifier : "Spanish",
+        name: "Spanish"
+    }
+]
