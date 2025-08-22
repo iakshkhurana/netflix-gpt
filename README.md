@@ -1,7 +1,5 @@
 # Netflix GPT
 
-1:11:36
-
 - Create React App
 - Configured TailwindCSS 
 - Header
@@ -48,7 +46,7 @@
 - Memoization
 - Added .env file
 - Adding .env file to gitignore
-- Made our Site Responsive
+- Made our Site Responsive (LEFT)
 
 # Features
 - Login/Sign Up
